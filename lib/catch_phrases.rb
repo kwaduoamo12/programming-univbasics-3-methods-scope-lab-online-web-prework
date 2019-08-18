@@ -10,3 +10,6 @@
 #     expect{any_phrase(phrase)}.to output("Do A Barrel Roll!\n").to_stdout
 #   end
 # end
+def mario
+  puts "It's-a me, Mario!"
+end
